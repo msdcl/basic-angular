@@ -580,8 +580,8 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /home/msc/Desktop/basic-angular/src/styles.css */"./src/styles.css");
-module.exports = __webpack_require__(/*! /home/msc/Desktop/basic-angular/node_modules/bootstrap/dist/css/bootstrap.min.css */"./node_modules/bootstrap/dist/css/bootstrap.min.css");
+__webpack_require__(/*! /home/msc/Documents/Mean stack/assignment8/assign8/src/styles.css */"./src/styles.css");
+module.exports = __webpack_require__(/*! /home/msc/Documents/Mean stack/assignment8/assign8/node_modules/bootstrap/dist/css/bootstrap.min.css */"./node_modules/bootstrap/dist/css/bootstrap.min.css");
 
 
 /***/ })
